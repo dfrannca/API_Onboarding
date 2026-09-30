@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/AccountOnboarding.Api/AccountOnboarding.Api.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/AccountOnboarding.Tests/AccountOnboarding.Api.UnitTest.csproj" />
+  </Folder>
+</Solution>
